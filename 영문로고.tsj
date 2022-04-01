@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"..\/..\/..\/Downloads\/\uc601\ubb38\ub85c\uace0.png",
+ "imageheight":32,
+ "imagewidth":192,
+ "margin":0,
+ "name":"\uc601\ubb38\ub85c\uace0",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.8.2",
+ "tileheight":32,
+ "tilewidth":192,
+ "type":"tileset",
+ "version":"1.8"
+}
